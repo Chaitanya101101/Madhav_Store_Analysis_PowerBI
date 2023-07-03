@@ -18,6 +18,9 @@ The owner of Madhav Store wants us to help them create a dashboard to track and 
 ### Interactive dashboard:
 ![Madhav Store E-commerce Sales dashboard](https://github.com/Chaitanya101101/Madhav_Store_Analysis_PowerBI/assets/128048654/333e621a-0fb7-444a-a91c-3968fb003071)
 
+### Result:
+The dashboard offers valuable insights on various aspects, including sales comparisons across states, the top-spending customer, the most popular product category, preferred payment mode, profitable months, and the sub-category driving maximum profits for Madhav E-Commerce Store. These visualizations enable effective tracking and analysis of online sales for the owner.
+
 ### Project Learnings:
 - Created an interactive dashboard to track and analyze online sales data.
 - Used complex parameters to drill down on a worksheet and customization using filters and slicers.
